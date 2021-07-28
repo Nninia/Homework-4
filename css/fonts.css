@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BPG Ingiri Arial';
+    src: url('../font/bpg-ingiri-arial-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../font/bpg-ingiri-arial-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../font/bpg-ingiri-arial-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../font/bpg-ingiri-arial-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../font/bpg-ingiri-arial-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../font/bpg-ingiri-arial-webfont.svg#bpg_ingiri_arialregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    src: url('../font/YanoneKaffeesatz-ExtraLight.eot');
+    src: url('../font/YanoneKaffeesatz-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../font/YanoneKaffeesatz-ExtraLight.woff2') format('woff2'),
+        url('../font/YanoneKaffeesatz-ExtraLight.woff') format('woff'),
+        url('../font/YanoneKaffeesatz-ExtraLight.ttf') format('truetype'),
+        url('../font/YanoneKaffeesatz-ExtraLight.svg#YanoneKaffeesatz-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;

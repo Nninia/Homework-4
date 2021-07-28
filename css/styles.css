@@ -1,0 +1,157 @@
+.date1 {
+	margin-left: 15px;
+	margin-top: 55px;
+	margin-bottom: 7px;
+    width: 46px;
+    height: 55px;
+	color: #fff;
+	background-color: #3D58A6;
+	text-align: middle;
+	font-size: 48px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.may {
+	margin-left: 15px;
+	width: 56px;
+    height: 25px;
+    color: #3D58A6;
+    font-size: 22px;
+    text-align: middle;
+
+}
+
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.home{
+	display: inline-block;
+	vertical-align: middle;
+}
+.news {
+	display: inline-block;
+	vertical-align: middle;
+}
+.contact {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.banner {
+    margin:0 auto;
+    width: 1170px;
+height: 460px;
+}
+.featured {
+	margin-left: 98px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.left-block {
+	margin-left: 98px;
+font-family: 'Roboto', sans-serif;
+    width: 570px;
+    background-color: #F2F2F2;
+    display: inline-block;
+    height: 225px;
+    vertical-align: middle;
+
+    
+}
+.right-block {
+	margin-right: 98px;
+font-family: 'Roboto', sans-serif;
+    width: 570px;
+    background-color: #F2F2F2;
+    display: inline-block;
+    height: 225px;
+    vertical-align: middle;
+
+
+}
+.text-block {
+	display: inline-block;
+	width: 353px;
+	text-align: left;
+letter-spacing: 0.5px;
+color: #58595B;
+opacity: 1;
+vertical-align: middle;
+font-size: 20px;
+font-family: 'Yanone Kaffeesatz';
+ font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+.img-block {
+vertical-align: middle;
+}
+
+.divider {
+	
+width: 1px;
+height: 27px;
+background: #3D58A6;
+display: inline-block;}
+.facebook {
+display: inline-block;
+}
+.youtube {
+display: inline-block;
+}
+
+.section-bg {
+	background-color: #E6E6E6;
+}
+.left-block-contact {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 141px;
+    margin-right: 54.4px;
+    margin-left: 97px;
+
+}
+.right-block-contact {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 141px;   
+}
+.image1 {
+	margin-left: 30px;
+	vertical-align: top;
+	display: inline-block;
+}
+.p1 {
+	display: inline-block;
+	width: 929px;
+	height: 360;
+	margin-left: 39px;
+	vertical-align: top;
+	font-size: 16px;
+	vertical-align: text-top;
+}
+
+
+.header {
+	font-size: 35;
+}
+.text1 {
+	font-size: 16px;
+}
+.contactinfo {
+font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.contactlist {
+	    font-family: 'BPG Ingiri Arial';
+
+}
